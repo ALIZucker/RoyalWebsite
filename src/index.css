@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer utilities{
+    .inputM{
+        @apply w-[94%] bg-backgray text-right h-[6vh] mt-3 ml-[3%] px-2.5 directiontext text-sm;
+    }
+    .directiontext{
+        direction: rtl;
+    }
+}
