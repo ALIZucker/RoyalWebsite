@@ -9,4 +9,22 @@
     .directiontext{
         direction: rtl;
     }
+    .hoverclass li{
+        @apply hover:text-sorati hover:cursor-pointer flex flex-row;
+    }
+    .scrollH::-webkit-scrollbar {
+        display: contents;
+    }
+    .sadowDste:hover{
+        box-shadow: 0 2px 8px 8px gainsboro ;
+    }
+    .transbot{
+        transition: all 0.2s linear;
+    }
+    .transbot:hover{
+        transform: translateY(-10%);
+        background-color: deeppink;
+        border: 1px black solid;
+        color: white;
+    }
 }
