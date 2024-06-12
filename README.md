@@ -1,7 +1,6 @@
-# Getting Started with Create React App
+# Getting Started with Create React App with typescript
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
+مینی پروژه برای آموزشی تکمیلی استفاده از تایپ اسکریپت و ری اکت عنوان پروژه سایت آرایشی و بهداشتی رویا که از سایت روژا الگو برداری شده است .
 ## Available Scripts
 
 In the project directory, you can run:
